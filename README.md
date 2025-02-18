@@ -4,10 +4,6 @@
 
 Ben, yazılım geliştiricisiyim ve GitHub'da açık kaynak projelere katkıda bulunuyorum.
 
-## 📈 GitHub İstatistiklerim
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&count_private=true)
-
 ## 🌐 Sosyal Medya
 
 - [LinkedIn](https://www.linkedin.com/in/enes-%C3%BClk%C3%BC-766071207/)
