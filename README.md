@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-# Merhaba, Ben Enes ÜLKÜ (https://github.com/EnesULKU48) 👋
+# Merhaba, Ben Enes ÜLKÜ 👋
 
-Ben, yazılım geliştiricisiyim ve GitHub'da açık kaynak projelere katkıda bulunuyorum.
 
-## 🌐 Sosyal Medya
+Kocaeli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Kod yazmayı,araştırmayı ve somut projeler üretmeyi seviyorum. 💻
+
+## 🌐 Bana Ulaşın
 
 - [LinkedIn](https://www.linkedin.com/in/enes-%C3%BClk%C3%BC-766071207/)
+- [E-Posta](enesulku4834@gmail.com)
 
 ## 💻 Teknolojiler
 
