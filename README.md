@@ -8,7 +8,7 @@ Kocaeli Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Kod yazmayı,ara
 ## 🌐 Bana Ulaşın
 
 - [LinkedIn](https://www.linkedin.com/in/enes-%C3%BClk%C3%BC-766071207/)
-- [E-Posta](enesulku4834@gmail.com)
+- E-Posta: enesulku4834@gmail.com
 
 ## 💻 Teknolojiler
 
